@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run cli" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="naapuri" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$" />
+    <package value="github.com/raspi/naapuri" />
+    <directory value="$PROJECT_DIR$/" />
+    <method v="2" />
+  </configuration>
+</component>
